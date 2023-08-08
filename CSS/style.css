@@ -35,3 +35,9 @@ span{
     font-weight: lighter;
     letter-spacing: 10px;
 }
+.create{
+    color: black;
+    text-align: end;
+    position: relative;
+    bottom: 100px;
+}
